@@ -99,7 +99,7 @@
 // let hours = Number.parseInt(time/60);
 // let minutes = time % 60;
 // function leftFillNum(num, targetLength) {
-//   return num.toString().padStart(targetLength, "0");
+// //   return num.toString().padStart(targetLength, "0");
 //  }
 
 // console.log(`${hours}:${leftFillNum(minutes, 2)}`);
@@ -237,7 +237,6 @@
 // якщо ділиться  без остачі на 5 - виводить в консоль 'buzz',
 // якщо ділиться  без остачі і на 3, і на 5 - виводить в консоль 'fizzbuzz'.
 
-// let startNumber = 1;
 // function fizzBuzz(num) {
 //     for (let i = 1; i <= num; i++) { 
 //         if (i % 3 === 0 && i % 5 === 0) { 
